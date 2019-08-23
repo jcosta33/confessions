@@ -6,12 +6,14 @@ Its purpose is to log confessions, like a diary. For social science... or someth
 ## Techs used:
 
   Server side:
+
     * Node
     * Express
     * MongoDB
     * Mongoose
   
   Client side:
+  
     * Typescript
     * React
     * Redux
