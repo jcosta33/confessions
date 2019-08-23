@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<releases>
+
+
+  <release id="48ff8304-2f95-4bc3-8eb9-c472083797ac" version="" date="2018.09.21-00.00.00">
+    <changelog>
+      <log highlight="true" type="feature" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Color Match" morelink="">With Color Match, you can use your theme's colors directly on your content. The web part color picker has been upgraded to support this brand new way for you to customize content. This feature requires the latest version of your BindTuning theme and web parts, now available to download from your account.</log>
+      <log highlight="true" type="feature" target="SPO2013" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added demo pages of the Modern Look." morelink=""></log>
+      <log highlight="true" type="fixed" target="SP2016" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Missing styles on document library pop-ups." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Diffuse,Empowe,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Permissions error with btSettingsOpen() and btEditMode() console commands." morelink=""></log>
+      <log highlight="true" type="feature" target="" packs="Empower,Interface,InvisibleDog,Metro,Rrrango,SPC,Terra,WePro,Zeus" createdby="BindTuning" title="Added custom content zone in the header" morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Ignite" createdby="BindTuning" title="Changing page title font when moving from mobile to desktop." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Kraft" createdby="BindTuning" title="Overlapping vertical menu text and page title." morelink=""></log>
+      <log highlight="true" type="fixed" target="SP2016" packs="Temple,WePro,Zeus" createdby="BindTuning" title="BindTuning Builder not working." morelink=""></log>
+    </changelog>
+  </release>
+
+  <release id="81004cc9-032e-4043-a218-1951dbc010c5" version="" date="2018.10.23-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Content disappearing after dragging web part modal fixed." morelink=""></log>
+      <log highlight="true" type="feature" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added import/export functionality for settings and content" morelink=""></log>
+      <log highlight="true" type="feature" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added global settings (including custom favicon) under Advanced Mode during installation process" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Configuration menu behind theme header fixed" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Filter panel overlapping footer fixed" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Duplicate search fixed" morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Engage,Inspire" createdby="BindTuning" title="Print preview styles fixed" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="eShop" createdby="BindTuning" title="Misalignment on header fixed" morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Ignite" createdby="BindTuning" title="Excessive space for navigation in tablet mode fixed" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Kraft" createdby="BindTuning" title="Content in front of search popup fixed" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Kraft" createdby="BindTuning" title="Content overlapping search dropdown fixed" morelink=""></log>
+      <log highlight="true" type="feature" target="" packs="TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added breadcrumb" morelink=""></log>
+    </changelog>
+  </release>
+
+  <release id="46fa73a9-6961-4027-91af-8c000aaa36a7" version="" date="2018.11.29-00.00.00">
+    <changelog>
+      <log highlight="true" type="feature" target="SPOX" packs="Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added Favicon field to settings panel" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Content disappearing on Team Sites" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Footer overlapping content in mobile" morelink=""></log>
+    </changelog>
+  </release>
+
+
+  <release id="05c2a344-e4d8-4b6c-b068-f0d296d4d915" version="" date="2018.12.03-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Settings not being applied after using search (triggering soft navigation)" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="BindTuning settings button not working after several soft navigation context changes" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Search sometimes not showing properly in Site Contents" morelink=""></log>
+    </changelog>
+  </release>
+
+  <release id="a240c950-80a3-4fa8-ab79-e0d6036dc1e0" version="" date="2018.12.07-00.00.00">
+    <changelog>
+      <log highlight="true" type="improvement" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Page title and logo are now visible on search page" morelink=""></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added native team site page title popup to page title" morelink=""></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added face pile and popups to social zone on team sites" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Site contents placeholders not loading" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Logo sometimes not loading when image not yet applied" morelink=""></log>
+    </changelog>
+  </release>
+
+  <release id="7891de96-1fdf-4fd2-8b7b-fd803d094bd1" version="" date="2018.12.20-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Hub site collection menu being moved to navigation placeholder" morelink="">         In some instances the site collection navigation would disappear and in its place the Hub navigation would show.        </log>
+    </changelog>
+  </release>
+
+  <release id="b08195ba-074f-4c64-98bf-a19aa16fa336" version="" date="2018.12.18-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Duplicate header" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Settings not propagating properly when partial refresh occurs" morelink=""></log>
+    </changelog>
+  </release>
+
+  <release id="20f568c1-ed5e-45b6-9d9d-9aa3738b75b3" version="" date="2019.01.04-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPO2013,SPCSS" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus,Slayte,Adapt,Flaat,Vivid," createdby="BindTuning,T-Worx" title="Theme/Web Parts not rendering after Microsoft update on SharePoint Online" morelink="https://support.bindtuning.com/hc/en-us/articles/360021311872-Theme-Web-Parts-not-rendering-after-Microsoft-update-on-SharePoint-Online">Due to recent updates to SharePoint Online you might experience issues with your BindTuning products on classic SharePoint sites.&lt;br/&gt;We strongly recommend to update your theme or applying the fix to your theme even if this issue is not affecting you yet.</log>
+    </changelog>
+  </release>
+
+  <release id="3e1c2cf7-c6a7-4a5e-92f3-39533d19b8d1" version="" date="2019.01.07-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPCSS" packs="Inspire" createdby="BindTuning" title="Search refiners not showing correctly" morelink=""></log>
+    </changelog>
+  </release>
+
+  <release id="630d490c-a965-4f93-86e9-2309d684e3f7" version="" date="2019.01.10-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Search not showing on Team Sites"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Social items not showing"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Misaligned BindTuning settings icon"></log>
+    </changelog>
+  </release>
+
+  <release id="29747991-a8ce-4df0-b926-dd354e62b986" version="" date="2019.01.22-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Duplicate header">Some recent Microsoft changes on the header structure made it necessary to update the theme resources.</log>
+    </changelog>
+  </release>
+
+  <release id="a6dc18ed-4228-4a34-84da-199b19014be8" version="" date="2019.02.07-00.00.00">
+    <changelog>
+      <log highlight="true" type="feature" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="New UI/UX for settings panel" morelink="https://bindtuning.com/whats-new?release=a6dc18ed-4228-4a34-84da-199b19014be8">The new settings panel includes a whole host of new features:                        <![CDATA[<ul><li>New UI/UX</li><li>New navigation provider</li><li>BindMENU v2 included</li><li>Ability to add custom scripts</li><li>Ability to add custom files (CSS, JS)</li><li>Theme update notification</li></ul>]]></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Page going blank on resize"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="New news item page not showing scrollbar"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Default SharePoint logo not showing on search page"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Breadcrumb sometimes loads multiple times"></log>
+      <log highlight="true" type="improvement" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Theme performance" morelink="">Up to 75% smaller package size; 70 to 80% less server requests for all themes; 20 to 30% faster load times;</log>
+      <log highlight="true" type="improvement" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Footer bottom placement performance improvements." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Rewrite of the $ variable that is used by SharePoint." morelink="">Issue caused by the rewrite of the $ variable that is used by SharePoint in this page. The fix is wrap the jQuery file with this both conditions.</log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="People picker the space of the box." morelink="">When you add to a value to a SharePoint list column with a People picker the space of the box is too large. If you have 1 value already it breaks to the next line break to the next line without a proper style.</log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Issues with web part properties panel" morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Carousel Makes Mega Menu loses links." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Quick Launch longer title overflowing." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Form element styling issues." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="People picker styling issues." morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="When you type on the URL Upper Cases the Zones don't load content there." morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Losing theme settings when changing pages." morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Page breaking when importing news from external page." morelink=""></log>
+      <log highlight="true" type="fixed" target="SPCSS" packs="Diffuse,Empower,Engage,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Word file being overlapped by theme's overlay." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Engage" createdby="BindTuning" title="Mobile page title and navigation issues." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Engage" createdby="BindTuning" title="Web Part titles getting cut off." morelink=""></log>
+      <log highlight="true" type="warning" target="" packs="Engage" createdby="BindTuning" title="Font Awesome has been removed." morelink="https://support.bind.pt/hc/en-us/articles/360015524411-Use-Font-Awesome-with-Ignite-and-Engage-Themes-">Font Awesome has been removed due to the fact that the theme is using Fabric UI icons. If you still need it, please read</log>
+    </changelog>
+    <whatsnew seo-title="The All-New Theme Settings Panel" seo-description="Introducing the new Theme Settings Panel! With new features and a new look aligned to the conventions of Modern SharePoint." seo-image="https://binddev.blob.core.windows.net/assets/PacksInfo/releases/a6dc18ed-4228-4a34-84da-199b19014be8/BrandNew.png">
+      <content id="spfx-new-settings-panel-ux" title="All-new Theme Settings Panel" sub-title="One step ahead" image="https://bind.blob.core.windows.net/assets/PacksInfo/releases/a6dc18ed-4228-4a34-84da-199b19014be8/BrandNew.png" img-styleClass="feature-img-center" section-color="bg-blue">
+        <![CDATA[
+                    Following the Modern SharePoint convention, the settings panel is now on the right. Detach it and move it around like a window on your OS. Or dock it.
+                ]]>
+      </content>
+      <content id="spfx-new-settings-panel-dark-light-mode" title="Dark Mode" sub-title="Bored with white?" image="https://bind.blob.core.windows.net/assets/PacksInfo/releases/a6dc18ed-4228-4a34-84da-199b19014be8/LightMode.png;https://binddev.blob.core.windows.net/assets/PacksInfo/releases/a6dc18ed-4228-4a34-84da-199b19014be8/DarkMode.png" img-styleClass="feature-img-left" section-color="bg-fuchsia">
+        <![CDATA[
+                    Did we mention there’s a dark mode for days you need to focus on what matters most - your content.
+                ]]>
+      </content>
+      <content id="spfx-new-settings-navigation-provider" title="New Navigation Provider" sub-title="BindMENU goes Modern" image="https://bind.blob.core.windows.net/assets/PacksInfo/releases/a6dc18ed-4228-4a34-84da-199b19014be8/Navigation.png" img-styleClass="feature-img-center strong-shadow img-rounded" section-color="bg-ocean">
+        <![CDATA[
+                    For a more flexible and feature-rich setup, we bring the tried and true robustness of our powerful BindMENU 2.0 to the Modern environment.
+                ]]>
+      </content>
+      <content id="spfx-new-settings-panel-advanced" title="Advanced Coding" sub-title="Take back control" image="https://bind.blob.core.windows.net/assets/PacksInfo/releases/a6dc18ed-4228-4a34-84da-199b19014be8/Advanced.png" img-styleClass="feature-img-left" section-color="bg-dark">
+        <![CDATA[
+                    The Modern Experience has expanded the possibilities but limited the flexibility for developers. Get back some of what you had with Classic SharePoint with custom CSS fields for custom scripts for entire JS and CSS files.
+                    <br /><br />
+                    Available now. <a href="https://bindtuning.com/resources/whats-new/bindtuning-themes-get-a-modern-sharepoint-ux-facelift" target="_blank">Learn more</a> about our Themes release. 
+                ]]>
+      </content>
+    </whatsnew>
+  </release>
+
+  <release id="1c793639-46a6-4156-aa9b-f5ea56721c74" version="" date="2019.02.14-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Scroll missing in new news link page"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Content zones staying in edit mode after soft page load"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Occasional settings icon misalignment"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Content update prompt showing when user has legacy settings leftover in the localstorage"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Sub menu not closing when navigating with soft page load"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Face pile section not showing on social zone"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Sub menu closing when hovering out and then back"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Drawer not opening after soft navigation"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Panel dock not working on library pages"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Invent" createdby="BindTuning" title="Search input not showing when clicking search button"></log>
+    </changelog>
+  </release>
+
+  <release id="1c52def7-b432-4a69-9cff-bf5a03c210f1" version="" date="2019.02.21-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Min and max sub menu width range increased"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Native SharePoint sub-menus getting text cut off"></log>
+      <log highlight="true" type="removed" target="SPCSS" packs="Flexo" createdby="BindTuning" title="jQuery UI"></log>
+      <log highlight="true" type="fixed" target="SPCSS" packs="Flexo" createdby="BindTuning" title="Fixed WP properties panel collapsing after attempting to drag"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="InvisibleDog" createdby="BindTuning" title="Page title line break affecting header even after it's hidden"></log>
+    </changelog>
+  </release>
+
+  <release id="89acc1d6-fdea-48b6-9d51-1bbb71d7ffa5" version="" date="2019.02.22-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Adele,Diffuse,Empower,Engage,eShop,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Ribbon showing unstyled after latest changes"></log>
+      <log highlight="true" type="fixed" target="SPCSS" packs="Adele,Diffuse,Empower,Engage,eShop,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Ribbon showing unstyled after latest changes (SharePoint Online only)"></log>
+      <log highlight="true" type="removed" target="SPCSS" packs="Diffuse,Empower,Engage,eShop,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="jQuery UI"></log>
+      <log highlight="true" type="fixed" target="SPCSS" packs="Diffuse,Empower,Engage,eShop,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Fixed WP properties panel collapsing after attempting to drag"></log>
+      <log highlight="true" type="improvement" target="SPCS,SPO2013" packs="SPC" createdby="BindTuning" title="Header border top now configurable through tuning color 5"></log>
+    </changelog>
+  </release>
+
+  <release id="922fd1fa-a35b-4f98-9ed9-28bfda4bdb7e" version="" date="2019.02.26-00.00.00">
+    <changelog>
+      <log highlight="true" type="changed" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="theme base fonts from external resource to local resource" morelink=""></log>
+      <log highlight="true" type="updated" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="Font Awesome to v4.7.0" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="iPhone bootstrap modal issue (modal behind backdrop)" morelink=""></log>
+      <log highlight="true" type="improvement" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="SharePoint modal styling" morelink=""></log>
+      <log highlight="true" type="improvement" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="SharePoint form styling uniformization" morelink=""></log>
+      <log highlight="true" type="improvement" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="SharePoint search refiner styles" morelink=""></log>
+      <log highlight="true" type="improvement" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="Miscelaneous SharePoint content and system pages style" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="SharePoint Ribbon on top of content" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="SharePoint Ribbon disappearing on iOS devices" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="SharePoint modal overflow" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="Issue caused by the rewrite of the $ variable that is used by SharePoint in this page. The fix is wrap the jQuery file with this both conditions" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="SharePoint list column with a People picker the space of the box is too large" morelink="">When you add to a value to a SharePoint list column with a People picker the space of the box is too large. If you have 1 value already it breaks to the next line break to the next line without a proper style</log>
+      <log highlight="true" type="improvement" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="theme resources" morelink=""><![CDATA[<ul><li>Up to 75% smaller package size;</li><li>70 to 80% less server requests for all themes;</li><li>20 to 30% faster load times;</li><ul>]]></log>
+      <log highlight="true" type="feature" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="Color Match" morelink="https://bindtuning.com/resources/whats-new/september-software-update-for-themes-and-web-parts">With Color Match, you can use your theme's colors directly on your content. The web part color picker has been upgraded to support this brand new way for you to customize content. This feature requires the latest version of your BindTuning theme and web parts, now available to download from your account.</log>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="Content disappearing after dragging web part modal fixed" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="Theme/Web Parts not rendering after Microsoft update on SharePoint Online" morelink="https://support.bindtuning.com/hc/en-us/articles/360021311872-Theme-Web-Parts-not-rendering-after-Microsoft-update-on-SharePoint-Online">Due to recent updates to SharePoint Online you might experience issues with your BindTuning products on classic SharePoint sites. We strongly recommend to update your theme or applying the fix to your theme even if this issue is not affecting you yet.</log>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Bloox,Slayte,Adapt,Flaat,Vivid" createdby="T-Worx" title="Ribbon showing unstyled after latest changes"></log>
+    </changelog>
+  </release>
+
+  <release id="8fc4278d-76cb-4887-a60a-24e3c8caa7a9" version="" date="2019.03.04-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="BindTuning Theme Settings panel issues on the user access validation"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="When using friendly URL term set navigation, the menu items wouldn't have their URL inside system pages"></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Alignments and spacings inside the megamenu"></log>
+    </changelog>
+  </release>
+
+  <release id="f1873d77-b8cb-42c7-b317-f09716e526a9" version="" date="2019.03.22-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Page going blank in mobile"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Settings button showing even when user has no permissions"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="BindTuning settings button misalignment"></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added option to hide menu"></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Mega menus with only one level now default to regular sub menus"></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Compact mode now split into footer and header"></log>
+    </changelog>
+  </release>
+
+  <release id="dc8a6310-b7b3-4d4d-a335-ada7ccc729e2" version="" date="2019.04.15-00.00.00">
+    <changelog>
+      <log highlight="true" type="fixed" target="SPO2013" packs="Adele,Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus,Bloxx,Slayte,Adapt,Flaat,Vivid" createdby="BindTuning,T-Worx" title="Ribbon showing unstyled after latest changes"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Settings not propagating to sub sites"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Navigation not propagating to sub sites"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Panel breaking when maximizing textarea while panel is draggable"></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Settings from different sites getting mixed up after soft navigation"></log>
+      <log highlight="true" type="feature" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added dynamic settings source">
+                Now you can have all your settings in one place, available to all site collections. 
+                You can use global settings for all your tenant, hub settings for all your associated sites and even set a specific site.
+      </log>
+      <log highlight="true" type="feature" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added dynamic navigation source"></log>
+      <log highlight="true" type="feature" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added ability to import/export settings directly from/to other sites"></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added hamburger/offcanvas menu for term set navigation"></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="All inputs are reactive and immediately take effect with visual feedback"></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Custom script section now shows you script errors"></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Settings now saved automatically"></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Added theme information (version, theme name, package name)"></log>
+      <log highlight="true" type="improvement" target="SPOX" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Improved breadcrumb performance (reduced requests required to build it)"></log>
+    </changelog>
+  </release>
+  <release id="158b1d55-6027-412c-a8a4-92ddc06aa137" version="" date="2019.06.25-00.00.00" dateOriginal="2018.09.03-00.00.00">
+    <changelog>
+      <log highlight="true" type="improvement" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Theme performance" morelink="">Up to 75% smaller package size; 70 to 80% less server requests for all themes; 20 to 30% faster load times;</log>
+      <log highlight="true" type="improvement" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Footer bottom placement performance improvements." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Rewrite of the $ variable that is used by SharePoint." morelink="">Issue caused by the rewrite of the $ variable that is used by SharePoint in this page. The fix is wrap the jQuery file with this both conditions.</log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="People picker the space of the box." morelink="">When you add to a value to a SharePoint list column with a People picker the space of the box is too large. If you have 1 value already it breaks to the next line break to the next line without a proper style.</log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Issues with web part properties panel" morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Carousel Makes Mega Menu loses links." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Quick Launch longer title overflowing." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Form element styling issues." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="People picker styling issues." morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="When you type on the URL Upper Cases the Zones don't load content there." morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Losing theme settings when changing pages." morelink=""></log>
+      <log highlight="true" type="fixed" target="SPOX" packs="Diffuse,Empower,Engage,eShop,Flexo,Ignite,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Page breaking when importing news from external page." morelink=""></log>
+      <log highlight="true" type="fixed" target="SPCSS" packs="Diffuse,Empower,Engage,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Word file being overlapped by theme's overlay." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Engage" createdby="BindTuning" title="Mobile page title and navigation issues." morelink=""></log>
+      <log highlight="true" type="fixed" target="" packs="Engage" createdby="BindTuning" title="Web Part titles getting cut off." morelink=""></log>
+      <log highlight="true" type="warning" target="" packs="Engage" createdby="BindTuning" title="Font Awesome has been removed." morelink="https://support.bind.pt/hc/en-us/articles/360015524411-Use-Font-Awesome-with-Ignite-and-Engage-Themes-">Font Awesome has been removed due to the fact that the theme is using Fabric UI icons. If you still need it, please read</log>
+    </changelog>
+  </release>
+  <release id="58251421-ec38-4090-a5d6-bf70c7b88d72" version="" date="2019.07.17-00.00.00" dateOriginal="2018.09.03-00.00.00">
+    <changelog>
+      <log highlight="true" type="feature" target="SPOX, SP2019SPFx" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Accessibility options for navigation"></log>
+      <log highlight="true" type="feature" target="SPOX, SP2019SPFx" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Custom logo image url"></log>
+      <log highlight="true" type="fixed" target="SPOX, SP2019SPFx" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Content editing overriding settings"></log>
+      <log highlight="true" type="fixed" target="SPOX, SP2019SPFx" packs="Difuse,Empower,Engage,eShop,Flexo,Ignite,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Additional resources not working"></log>
+
+      <log highlight="true" type="fixed" target="SPCSS" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Settings not saving when property bags overflow" morelink=""></log>
+      <log highlight="true" type="fixed" target="SPCSS" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="IE10 mutation observer error" morelink=""></log>
+
+      <log highlight="true" type="improvement" target="SPCSS,SP2013,SP2016,SP2019,SPO2013" packs="Adele,Diffuse,Empower,Engage,eShop,Flexo,Ignite,Inspire,Interface,Invent,InvisibleDog,Kraft,Metro,Rrrango,SampleKit,SPC,Temple,Terra,TheBootstrapTheme,WePro,Zeus" createdby="BindTuning" title="Nintex forms look and feel" morelink=""></log>
+
+    </changelog>
+  </release>
+</releases>

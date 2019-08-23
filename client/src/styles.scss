@@ -1,0 +1,20 @@
+body {
+    background-color: #111!important;
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-weight: 300;
+    }
+}
+
+section.hero {
+    background: url(https://unsplash.com/photos/4NAgbgIKnM0/download?force=true);
+    background-position: center -300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: transparent!important;
+    padding: 9rem 0;
+}
