@@ -1,7 +1,7 @@
 # Confession Log App
 
 This app is designed with priests in mind (something you don't hear often enough!). 
-Its purpose is to log confessions, like a diary. For social science... or something.
+Its purpose is to log the confessions of his congregation, like a diary for other people's secrets. 
 
 ## Techs used:
 
