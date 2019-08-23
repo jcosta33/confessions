@@ -7,18 +7,18 @@ Its purpose is to log confessions, like a diary. For social science... or someth
 
   Server side:
 
-    * Node
-    * Express
-    * MongoDB
-    * Mongoose
+    Node
+    Express
+    MongoDB
+    Mongoose
   
   Client side:
   
-    * Typescript
-    * React
-    * Redux
-    * SASS
-    * Bootstrap (reactstrap)
+    Typescript
+    React
+    Redux
+    SASS
+    Bootstrap (reactstrap)
     
   ...and smaller libraries like lodash and such
 
