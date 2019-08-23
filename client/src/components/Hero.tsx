@@ -33,7 +33,7 @@ export default class hero extends React.Component<{}, INavState> {
         <section className="hero">
 
           <Container>
-            <h1 style={{ color: "#fff" }}>Confession Log</h1>
+            <h1 style={{ color: "#fff" }}>Let Jesus into your life</h1>
             <span style={{ display: "block", fontWeight: 300, fontSize: "20px", marginBottom: "20px", color: "#fff" }}>
               Register the deeds of sinners
               <br />Judge with the Holy Spirit
