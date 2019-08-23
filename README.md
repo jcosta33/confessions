@@ -39,6 +39,6 @@ Its purpose is to log the confessions of his congregation, like a diary for othe
 
 ## Set up MongoDB
 
-  https://docs.mongodb.com/manual/installation/
-  https://docs.mongodb.com/compass/master/databases/
-  https://docs.mongodb.com/compass/master/collections/
+  > https://docs.mongodb.com/manual/installation/
+  > https://docs.mongodb.com/compass/master/databases/
+  > https://docs.mongodb.com/compass/master/collections/
