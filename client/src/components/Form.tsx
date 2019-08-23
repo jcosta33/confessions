@@ -131,7 +131,7 @@ export class UserForm extends React.Component<IFormProps, IFormState> {
         </FormGroup>
 
         <FormGroup>
-          <Button {...submitProps} color="primary" type="submit">Confess</Button>
+          <Button {...submitProps} color="primary" type="submit">New confession</Button>
         </FormGroup>
       </Form>
     );
@@ -149,7 +149,7 @@ export class UserForm extends React.Component<IFormProps, IFormState> {
       deed: this.state.deed,
       file: this.state.file
     }
-    debugger
+
     this.props.addUser(user);
     this.props.handleForm();
 
