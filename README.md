@@ -28,19 +28,29 @@ Its purpose is to log the confessions of his congregation, like a diary for othe
 
  2. Install MongoDB with Compass
 
- 3. Create a database with the name of "beamian" with a collection named "users" 
+ 3. Use Compass to connect to MongoDB (leave defaults)
 
- 4. Open terminal and run "npm i" and "npm i --prefix client"
+ 4. Create a database with the name of "beamian" with a collection named "users" 
 
- 5. Still in the terminal, run "npm start dev"
+ 5. Open terminal and run "npm i" on the root folder;
 
- 6. Use the App!
+ 6. "cd client" to navigate to client folder and run "npm i" again;
+
+ 7. "cd ../" to navigate back to the root and run "npm start dev"
+
+ 8. Use the App!
+
+If you get an error with react-scripts just run "npm i react-scripts" on the client folder.
 
 
-## Set up MongoDB
+## MongoDB
 
   > https://docs.mongodb.com/manual/installation/
 
   > https://docs.mongodb.com/compass/master/databases/
   
   > https://docs.mongodb.com/compass/master/collections/
+
+## NodeJS
+
+  > https://nodejs.org/en/download/
