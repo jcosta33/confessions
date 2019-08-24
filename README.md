@@ -1,7 +1,6 @@
-# Confession Log App
+# MERN Stack App
 
-This app is designed with priests in mind (something you don't hear often enough!). 
-Its purpose is to log the confessions of his congregation, like a diary for other people's secrets. 
+Simple log management app. A diary for other people's secrets.
 
 ## Techs used:
 
