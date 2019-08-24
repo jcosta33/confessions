@@ -30,7 +30,7 @@ Its purpose is to log the confessions of his congregation, like a diary for othe
 
  3. Use Compass to connect to MongoDB (leave defaults)
 
- 4. Create a database with the name of "beamian" with a collection named "users" 
+ 4. Create a database with the name of "confessions" with a collection named "users" 
 
  5. Open terminal and run "npm i" on the root folder;
 
