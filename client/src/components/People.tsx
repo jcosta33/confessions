@@ -74,7 +74,7 @@ export class People extends React.Component<IPeopleProps, INavState> {
                   </CardText>
                   {user.file &&
                     <a
-                      href={`http://localhost:5000/files/${user._id}/${user.file}`}
+                      href={`${window.location.href}files/${user._id}/${user.file}`}
                       style={{ display: "block", fontSize: "12px", margin: "20px 0 0" }}
                       download
                     >

@@ -42,7 +42,7 @@ export default class hero extends React.Component<{}, INavState> {
             <Button type="button" color="secondary" style={{ cursor: "pointer" }} onClick={this.handleForm.bind(this)}>New confession</Button>
           </Container>
 
-        </section >
+        </section>
 
         <Modal isOpen={this.state.isConfessing} toggle={this.handleForm.bind(this)}>
           <ModalBody>
