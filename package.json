@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "express-file-store": "^1.0.3",
     "express-fileupload": "^1.1.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongoose": "^5.6.10",
     "multer": "^1.4.2"
   },
